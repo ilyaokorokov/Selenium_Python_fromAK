@@ -1,1 +1,1 @@
-# selenium_course
+# "Selenium на Python" от Алексея Коледачкина
